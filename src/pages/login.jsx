@@ -5,7 +5,6 @@ function Login() {
     return(
     <>
         <h1>Login</h1>
-        <button><Link to='/home'>Connexion</Link></button>
         <Button linkValue='/home' buttonValue='Se connecter'/>
     </>
 
